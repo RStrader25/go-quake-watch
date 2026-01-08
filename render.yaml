@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: go-quake-watch
+    env: go
+    plan: free
+    buildCommand: |
+      if [ ! -f go.mod ]; then
+        go mod init quake-watch
+      fi
+      go mod tidy
+      go build -o quake-watch .
+    startCommand: ./quake-watch
